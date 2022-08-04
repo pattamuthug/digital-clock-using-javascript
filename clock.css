@@ -1,0 +1,17 @@
+.container{
+    margin: 200px 35%;
+    background-color: black;
+    color: aqua ;
+    text-align: center;
+    width: 400px;
+     
+}
+#time{
+    padding-top: 15px;
+    font-size: xx-large;
+}
+#date{
+    padding-top: 10px;
+    font-size: xx-large;
+    padding-bottom: 15px;
+}
